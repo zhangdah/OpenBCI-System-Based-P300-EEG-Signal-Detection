@@ -1,1 +1,1 @@
-# MIE498-Thesis-Project---Dahong-Zhang
+# MIE498 Thesis Project - Dahong Zhang
