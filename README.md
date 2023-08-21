@@ -1,1 +1,3 @@
-# MIE498 Thesis Project - Dahong Zhang
+# OpenBCI System-Based EEG signal Detection
+
+
